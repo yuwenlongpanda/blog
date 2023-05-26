@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://余文龙.cn/blog/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://余文龙.cn/blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>余文龙的博客(Java面试 + 学习指南)</title>
+    <link>https://余文龙.cn/blog/</link>
+    <description>「Java学习指北 + Java面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，复习 Java 知识点，首选 余文龙！  </description>
+    <language>zh-CN</language>
+    <pubDate>Fri, 26 May 2023 08:10:17 GMT</pubDate>
+    <lastBuildDate>Fri, 26 May 2023 08:10:17 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+  </channel>
+</rss>
